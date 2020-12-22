@@ -1,0 +1,29 @@
+﻿Final Ethics Projects
+
+
+The following represent a list of potential topics of research for the final project for this course. I will be working with a partner on this project. The priority of interest is descending. 
+
+
+NYCDOE School Selection Algorithm
+Preferences and Outcomes: A Look at New York City’s Public High School Choice Process
+https://ibo.nyc.ny.us/iboreports/preferences-and-outcomes-a-look-at-new-york-citys-public-high-school-choice-process.pdf
+How Game Theory Helped Improve New York City High SChool Application Process
+https://www.nytimes.com/2014/12/07/nyregion/how-game-theory-helped-improve-new-york-city-high-school-application-process.html
+Coding component: creating the matching algorithm and showing how the inputs are the problem, not the algorithm itself
+
+
+
+
+Algorithmic Bias in AI and ML
+Algorithmic Bias Detection and Mitigation Best Practice and Policies to Reduce Consumer Harms
+https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/
+Bias in Algorithms
+https://towardsdatascience.com/how-are-algorithms-biased-8449406aaa83
+Coding component: Creating an AI “bot” that only produces decisions based on the data provided to show how the bias is replicated. 
+
+
+Gamifying education: what is known, what is believed and what remains uncertain: a critical review
+https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-017-0042-5
+Five Ways to Gamify your Classroom
+https://www.iste.org/explore/In-the-classroom/5-ways-to-gamify-your-classroom
+Coding Component: Create a program that will provide ideas on how to gamify a classroom based on a subject (using an API) and determining (based on selections) the percentage of increase in engagement potential by making these changes.
